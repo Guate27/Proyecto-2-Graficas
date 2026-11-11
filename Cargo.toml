@@ -1,0 +1,13 @@
+[package]
+name = "diorama_raytracing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra-glm = "0.18.0"
+minifb = "0.26.0"
+
+# El raytracing hace muchísimas cuentas por píxel; sin optimización
+# hasta un cubo se movería lento, aun con `cargo run` normal.
+[profile.dev]
+opt-level = 3
