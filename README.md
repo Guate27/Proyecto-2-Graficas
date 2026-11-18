@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/d28ad45f-168a-4150-bc7e-c2d5713c7978
 # Proyecto 2 · Diorama con Raytracing
 
 Diorama de bloques renderizado en tiempo real con un raytracer crado en Rust: una isla flotante de otoño sobre un mar de nubes, con una casa de parqué y techo de pizarra, ventanas de vitral, un estanque turquesa con cascada, árboles de hojas naranjas y un monumento de amatista.
